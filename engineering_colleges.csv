@@ -1,0 +1,658 @@
+clg_name,location,fee,ratings,courses,clg_type,entrance_exam
+IIT Madras - Indian Institute of Technology Campus 1,Indore,3.28 L,4.6,21,Govt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 2,Coimbatore,17.26 L,4.7,31,Pvt,UPTAC
+IIIT Hyderabad Campus 3,Chennai,4.8 L,3.1,10,Pvt,"JEE Main, JEE Advanced"
+VIT Vellore Campus 4,Hyderabad,19.83 L,3.9,21,Pvt,"JEE Main, JEE Advanced"
+IIT Bombay - Indian Institute of Technology Campus 5,Mumbai,13.05 L,3.5,33,Govt,BITSAT
+VIT Vellore Campus 6,Kolkata,8.4 L,3.1,30,Pvt,BITSAT
+NIT Surathkal Campus 7,Hyderabad,18.31 L,3.9,13,Govt,MHT CET
+IIT Delhi - Indian Institute of Technology Campus 8,Chennai,17.81 L,3.7,20,Govt,MHT CET
+NIT Trichy Campus 9,Pune,12.1 L,3.1,26,Govt,JEE Main
+IIIT Hyderabad Campus 10,Bengaluru,17.07 L,4.5,13,Pvt,VITEEE
+NIT Trichy Campus 11,Pune,7.36 L,3.2,21,Govt,JEE Main
+NIT Surathkal Campus 12,Hyderabad,9.55 L,4.2,32,Govt,"JEE Main, JEE Advanced"
+VIT Vellore Campus 13,Kolkata,1.27 L,3.5,34,Pvt,UPTAC
+VIT Vellore Campus 14,Indore,8.96 L,3.3,12,Pvt,VITEEE
+VIT Vellore Campus 15,Hyderabad,6.44 L,4.7,7,Pvt,UPTAC
+IIT Delhi - Indian Institute of Technology Campus 16,Kolkata,10.89 L,3.5,40,Govt,JEE Main
+IIIT Hyderabad Campus 17,Nagpur,4.09 L,3.8,34,Pvt,KCET
+IIT Madras - Indian Institute of Technology Campus 18,Hyderabad,14.53 L,3.1,10,Govt,JEE Main
+NIT Surathkal Campus 19,Delhi,4.93 L,4.4,19,Govt,BITSAT
+VIT Vellore Campus 20,Pune,3.71 L,4.1,30,Pvt,"JEE Main, JEE Advanced"
+VIT Vellore Campus 21,Hyderabad,3.63 L,3,21,Pvt,BITSAT
+IIIT Hyderabad Campus 22,Kolkata,19.1 L,3.3,17,Pvt,JEE Main
+IIIT Hyderabad Campus 23,Chennai,11.05 L,4.5,10,Pvt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 24,Kolkata,16.33 L,3.9,12,Pvt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 25,Kolkata,14.46 L,4.7,17,Pvt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 26,Kolkata,11.69 L,4.4,16,Govt,KCET
+IIT Bombay - Indian Institute of Technology Campus 27,Nagpur,16.56 L,4,16,Govt,UPTAC
+IIT Bombay - Indian Institute of Technology Campus 28,Nagpur,20.61 L,4.4,19,Govt,BITSAT
+NIT Surathkal Campus 29,Hyderabad,17.12 L,3.6,22,Govt,VITEEE
+NIT Trichy Campus 30,Pune,11.96 L,3.7,32,Govt,BITSAT
+IIIT Hyderabad Campus 31,Indore,9.52 L,4.4,38,Pvt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 32,Indore,9.88 L,3.8,35,Govt,JEE Main
+NIT Trichy Campus 33,Chennai,12.7 L,4.8,7,Govt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 34,Pune,21.33 L,3.2,27,Pvt,MHT CET
+NIT Trichy Campus 35,Indore,16.73 L,3.3,9,Govt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 36,Coimbatore,4.94 L,4.6,21,Govt,KCET
+IIT Delhi - Indian Institute of Technology Campus 37,Mumbai,18.41 L,3.5,14,Govt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 38,Pune,15.9 L,4.2,35,Pvt,KCET
+IIIT Hyderabad Campus 39,Kolkata,17.81 L,3.2,18,Pvt,BITSAT
+NIT Trichy Campus 40,Nagpur,7.39 L,4,31,Govt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 41,Bengaluru,20.78 L,4,30,Govt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 42,Mumbai,20.41 L,4.3,22,Govt,UPTAC
+NIT Surathkal Campus 43,Mumbai,21.02 L,3.9,19,Govt,JEE Main
+IIT Delhi - Indian Institute of Technology Campus 44,Pune,2.8 L,4.6,6,Govt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 45,Pune,14.31 L,4.7,40,Govt,JEE Main
+VIT Vellore Campus 46,Nagpur,20.04 L,3.4,28,Pvt,UPTAC
+VIT Vellore Campus 47,Nagpur,5.2 L,3.6,33,Pvt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 48,Delhi,13.64 L,3.6,26,Govt,UPTAC
+NIT Surathkal Campus 49,Delhi,12.09 L,3.4,8,Govt,BITSAT
+VIT Vellore Campus 50,Bengaluru,3.68 L,3.8,30,Pvt,VITEEE
+NIT Trichy Campus 51,Delhi,12.22 L,3.7,29,Govt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 52,Pune,20.74 L,3.3,15,Govt,UPTAC
+BITS Pilani - Birla Institute of Technology Campus 53,Kolkata,18.25 L,4.5,33,Pvt,UPTAC
+IIT Bombay - Indian Institute of Technology Campus 54,Hyderabad,9.04 L,4.1,17,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 55,Kolkata,5.44 L,3.9,37,Pvt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 56,Nagpur,10.6 L,4.1,8,Govt,JEE Main
+VIT Vellore Campus 57,Bengaluru,20.78 L,3.1,32,Pvt,KCET
+IIT Madras - Indian Institute of Technology Campus 58,Coimbatore,5.63 L,3.5,8,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 59,Kolkata,20.05 L,4.4,40,Pvt,MHT CET
+VIT Vellore Campus 60,Delhi,4.5 L,3.6,22,Pvt,BITSAT
+NIT Trichy Campus 61,Coimbatore,20.38 L,3.2,27,Govt,MHT CET
+VIT Vellore Campus 62,Chennai,2.18 L,3.4,34,Pvt,"JEE Main, JEE Advanced"
+BITS Pilani - Birla Institute of Technology Campus 63,Hyderabad,18.52 L,3.8,17,Pvt,JEE Main
+IIIT Hyderabad Campus 64,Chennai,11.32 L,4.4,31,Pvt,BITSAT
+IIT Madras - Indian Institute of Technology Campus 65,Bengaluru,10.51 L,4.3,18,Govt,UPTAC
+IIT Delhi - Indian Institute of Technology Campus 66,Kolkata,18.81 L,4.5,17,Govt,MHT CET
+NIT Trichy Campus 67,Chennai,15.33 L,4,14,Govt,BITSAT
+IIIT Hyderabad Campus 68,Pune,14.49 L,4.5,12,Pvt,BITSAT
+NIT Surathkal Campus 69,Hyderabad,21.73 L,4.3,18,Govt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 70,Delhi,2.95 L,4.7,14,Govt,BITSAT
+NIT Trichy Campus 71,Indore,16.28 L,4.7,30,Govt,BITSAT
+IIT Bombay - Indian Institute of Technology Campus 72,Coimbatore,4.99 L,4.8,11,Govt,JEE Main
+IIT Madras - Indian Institute of Technology Campus 73,Chennai,21.94 L,4.7,8,Govt,MHT CET
+IIT Bombay - Indian Institute of Technology Campus 74,Kolkata,4.73 L,3.7,32,Govt,UPTAC
+IIT Delhi - Indian Institute of Technology Campus 75,Coimbatore,9.97 L,3.7,22,Govt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 76,Pune,12.69 L,3.2,5,Govt,VITEEE
+NIT Trichy Campus 77,Nagpur,4.19 L,4.6,29,Govt,BITSAT
+VIT Vellore Campus 78,Pune,21.56 L,3,39,Pvt,BITSAT
+NIT Surathkal Campus 79,Indore,14.62 L,4.5,38,Govt,BITSAT
+IIIT Hyderabad Campus 80,Kolkata,14.54 L,4.2,24,Pvt,JEE Main
+NIT Surathkal Campus 81,Bengaluru,13.08 L,4.3,36,Govt,MHT CET
+IIT Madras - Indian Institute of Technology Campus 82,Delhi,8.04 L,3.8,36,Govt,KCET
+BITS Pilani - Birla Institute of Technology Campus 83,Hyderabad,20.4 L,4.7,22,Pvt,VITEEE
+NIT Surathkal Campus 84,Bengaluru,10.79 L,4.2,25,Govt,MHT CET
+IIT Bombay - Indian Institute of Technology Campus 85,Delhi,14.76 L,4.5,31,Govt,"JEE Main, JEE Advanced"
+IIIT Hyderabad Campus 86,Bengaluru,7.41 L,3.1,25,Pvt,MHT CET
+NIT Surathkal Campus 87,Chennai,1.92 L,3.3,23,Govt,JEE Main
+NIT Surathkal Campus 88,Delhi,16.25 L,3.7,10,Govt,BITSAT
+BITS Pilani - Birla Institute of Technology Campus 89,Bengaluru,17.06 L,4.5,25,Pvt,VITEEE
+VIT Vellore Campus 90,Coimbatore,13.02 L,3.5,13,Pvt,JEE Main
+IIT Delhi - Indian Institute of Technology Campus 91,Pune,21.22 L,4.5,33,Govt,MHT CET
+NIT Trichy Campus 92,Bengaluru,17.4 L,4.2,39,Govt,UPTAC
+VIT Vellore Campus 93,Coimbatore,16.58 L,3.2,7,Pvt,VITEEE
+NIT Surathkal Campus 94,Bengaluru,1.54 L,3.8,13,Govt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 95,Mumbai,8.31 L,4.3,37,Govt,JEE Main
+IIIT Hyderabad Campus 96,Mumbai,9.53 L,3.6,15,Pvt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 97,Mumbai,13.94 L,4.2,38,Govt,BITSAT
+NIT Trichy Campus 98,Mumbai,9.04 L,3.1,11,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 99,Bengaluru,14.94 L,3.1,37,Pvt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 100,Coimbatore,12.04 L,4.4,11,Pvt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 101,Chennai,21.88 L,4.4,35,Govt,BITSAT
+VIT Vellore Campus 102,Coimbatore,13.63 L,4.6,25,Pvt,JEE Main
+IIT Madras - Indian Institute of Technology Campus 103,Coimbatore,15.44 L,4.4,29,Govt,VITEEE
+NIT Trichy Campus 104,Bengaluru,15.04 L,4.7,16,Govt,BITSAT
+VIT Vellore Campus 105,Bengaluru,9.05 L,4.7,14,Pvt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 106,Hyderabad,3.97 L,4.5,31,Govt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 107,Delhi,21.47 L,3.6,9,Govt,VITEEE
+NIT Trichy Campus 108,Delhi,6.55 L,3.3,25,Govt,VITEEE
+NIT Surathkal Campus 109,Chennai,10.36 L,4.3,40,Govt,JEE Main
+VIT Vellore Campus 110,Nagpur,2.87 L,4.4,31,Pvt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 111,Hyderabad,2.15 L,4.7,35,Govt,"JEE Main, JEE Advanced"
+IIT Madras - Indian Institute of Technology Campus 112,Bengaluru,2.88 L,3.7,18,Govt,KCET
+IIT Bombay - Indian Institute of Technology Campus 113,Hyderabad,4.03 L,4.8,32,Govt,KCET
+IIT Delhi - Indian Institute of Technology Campus 114,Hyderabad,12.93 L,3.1,13,Govt,UPTAC
+IIT Bombay - Indian Institute of Technology Campus 115,Hyderabad,7.48 L,3.5,11,Govt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 116,Coimbatore,13.71 L,4.7,7,Pvt,MHT CET
+IIT Bombay - Indian Institute of Technology Campus 117,Coimbatore,17.06 L,4.6,35,Govt,BITSAT
+IIT Bombay - Indian Institute of Technology Campus 118,Delhi,17.77 L,3.9,20,Govt,MHT CET
+NIT Surathkal Campus 119,Nagpur,10.08 L,4.4,21,Govt,BITSAT
+IIT Madras - Indian Institute of Technology Campus 120,Nagpur,15.24 L,3.6,15,Govt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 121,Chennai,21.89 L,3.8,37,Govt,"JEE Main, JEE Advanced"
+IIIT Hyderabad Campus 122,Bengaluru,20.41 L,4.7,37,Pvt,BITSAT
+VIT Vellore Campus 123,Delhi,16.93 L,4,15,Pvt,KCET
+BITS Pilani - Birla Institute of Technology Campus 124,Delhi,8.98 L,3.6,18,Pvt,MHT CET
+NIT Surathkal Campus 125,Hyderabad,20.09 L,3.1,22,Govt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 126,Bengaluru,5.49 L,3.8,37,Govt,BITSAT
+VIT Vellore Campus 127,Mumbai,11.32 L,3.9,17,Pvt,"JEE Main, JEE Advanced"
+IIT Madras - Indian Institute of Technology Campus 128,Hyderabad,10.26 L,4.7,5,Govt,VITEEE
+NIT Surathkal Campus 129,Chennai,15.16 L,3.3,26,Govt,"JEE Main, JEE Advanced"
+BITS Pilani - Birla Institute of Technology Campus 130,Kolkata,0.95 L,3.3,5,Pvt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 131,Coimbatore,19.15 L,4.2,11,Govt,MHT CET
+NIT Surathkal Campus 132,Indore,14.81 L,4.7,19,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 133,Hyderabad,4.28 L,4.1,35,Pvt,UPTAC
+VIT Vellore Campus 134,Bengaluru,21.09 L,4.7,23,Pvt,"JEE Main, JEE Advanced"
+BITS Pilani - Birla Institute of Technology Campus 135,Coimbatore,18.59 L,3.5,29,Pvt,BITSAT
+NIT Surathkal Campus 136,Bengaluru,9.39 L,4.8,5,Govt,MHT CET
+IIIT Hyderabad Campus 137,Mumbai,21.79 L,3.8,25,Pvt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 138,Mumbai,4.43 L,3.5,16,Govt,JEE Main
+NIT Surathkal Campus 139,Delhi,2.17 L,4.2,18,Govt,KCET
+IIT Madras - Indian Institute of Technology Campus 140,Nagpur,16.31 L,3.4,26,Govt,KCET
+VIT Vellore Campus 141,Pune,6.13 L,3.5,27,Pvt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 142,Coimbatore,10.22 L,4.7,5,Govt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 143,Nagpur,17.69 L,4,26,Govt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 144,Indore,2.35 L,3.6,15,Govt,JEE Main
+NIT Surathkal Campus 145,Kolkata,8.8 L,3.5,23,Govt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 146,Indore,3.81 L,4.1,9,Govt,KCET
+NIT Surathkal Campus 147,Delhi,17.88 L,3.7,35,Govt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 148,Delhi,21.65 L,4.7,6,Govt,"JEE Main, JEE Advanced"
+VIT Vellore Campus 149,Kolkata,7.24 L,4.1,6,Pvt,VITEEE
+IIIT Hyderabad Campus 150,Chennai,15.07 L,4.5,39,Pvt,MHT CET
+VIT Vellore Campus 151,Bengaluru,0.96 L,4.6,24,Pvt,KCET
+IIT Bombay - Indian Institute of Technology Campus 152,Hyderabad,13.3 L,4.1,23,Govt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 153,Delhi,12.01 L,3.1,40,Govt,BITSAT
+IIT Bombay - Indian Institute of Technology Campus 154,Mumbai,4.89 L,4.1,16,Govt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 155,Kolkata,17.66 L,3.7,26,Pvt,KCET
+VIT Vellore Campus 156,Pune,18.78 L,3,24,Pvt,UPTAC
+VIT Vellore Campus 157,Hyderabad,18.66 L,4.6,14,Pvt,UPTAC
+NIT Trichy Campus 158,Nagpur,5.66 L,4.3,9,Govt,JEE Main
+IIT Madras - Indian Institute of Technology Campus 159,Chennai,3.02 L,3.9,8,Govt,MHT CET
+NIT Surathkal Campus 160,Hyderabad,8.42 L,3.1,25,Govt,MHT CET
+NIT Surathkal Campus 161,Bengaluru,11.27 L,4.4,21,Govt,MHT CET
+IIT Madras - Indian Institute of Technology Campus 162,Indore,1.47 L,4.5,9,Govt,BITSAT
+IIIT Hyderabad Campus 163,Kolkata,13.51 L,3.1,27,Pvt,MHT CET
+IIT Delhi - Indian Institute of Technology Campus 164,Pune,17.51 L,3.9,19,Govt,BITSAT
+BITS Pilani - Birla Institute of Technology Campus 165,Pune,1.32 L,4.2,14,Pvt,MHT CET
+VIT Vellore Campus 166,Bengaluru,9.86 L,3.1,39,Pvt,UPTAC
+NIT Surathkal Campus 167,Indore,9.34 L,3.4,27,Govt,JEE Main
+IIT Madras - Indian Institute of Technology Campus 168,Mumbai,7.02 L,4.7,30,Govt,MHT CET
+IIIT Hyderabad Campus 169,Kolkata,7.0 L,3.1,13,Pvt,JEE Main
+NIT Surathkal Campus 170,Chennai,20.85 L,4,26,Govt,UPTAC
+IIT Delhi - Indian Institute of Technology Campus 171,Indore,13.05 L,4.7,30,Govt,"JEE Main, JEE Advanced"
+BITS Pilani - Birla Institute of Technology Campus 172,Nagpur,3.21 L,3.6,33,Pvt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 173,Pune,17.22 L,3.8,37,Govt,JEE Main
+IIT Delhi - Indian Institute of Technology Campus 174,Coimbatore,16.64 L,4.5,27,Govt,"JEE Main, JEE Advanced"
+IIIT Hyderabad Campus 175,Chennai,11.6 L,3.6,7,Pvt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 176,Indore,8.22 L,4.1,36,Govt,BITSAT
+VIT Vellore Campus 177,Mumbai,1.73 L,3.1,10,Pvt,JEE Main
+NIT Trichy Campus 178,Bengaluru,3.87 L,3.4,31,Govt,MHT CET
+IIT Bombay - Indian Institute of Technology Campus 179,Kolkata,9.46 L,3.2,6,Govt,"JEE Main, JEE Advanced"
+VIT Vellore Campus 180,Delhi,7.02 L,3.8,15,Pvt,JEE Main
+IIIT Hyderabad Campus 181,Hyderabad,2.73 L,3.3,24,Pvt,KCET
+IIIT Hyderabad Campus 182,Delhi,18.43 L,4.2,18,Pvt,VITEEE
+VIT Vellore Campus 183,Hyderabad,13.89 L,4.4,32,Pvt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 184,Pune,13.92 L,3.1,10,Govt,KCET
+IIT Bombay - Indian Institute of Technology Campus 185,Hyderabad,14.46 L,3.4,35,Govt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 186,Kolkata,14.35 L,3.6,14,Pvt,"JEE Main, JEE Advanced"
+IIT Bombay - Indian Institute of Technology Campus 187,Chennai,8.65 L,3.8,19,Govt,BITSAT
+NIT Surathkal Campus 188,Kolkata,14.47 L,3,32,Govt,VITEEE
+VIT Vellore Campus 189,Indore,15.26 L,4.1,25,Pvt,KCET
+VIT Vellore Campus 190,Hyderabad,11.13 L,4,6,Pvt,MHT CET
+IIT Bombay - Indian Institute of Technology Campus 191,Nagpur,7.74 L,4.5,21,Govt,"JEE Main, JEE Advanced"
+IIT Madras - Indian Institute of Technology Campus 192,Chennai,8.23 L,3.4,29,Govt,VITEEE
+IIT Bombay - Indian Institute of Technology Campus 193,Bengaluru,12.54 L,4.7,5,Govt,"JEE Main, JEE Advanced"
+IIT Madras - Indian Institute of Technology Campus 194,Kolkata,8.78 L,4.4,18,Govt,VITEEE
+NIT Trichy Campus 195,Pune,6.64 L,3,11,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 196,Coimbatore,16.33 L,4,21,Pvt,JEE Main
+IIT Delhi - Indian Institute of Technology Campus 197,Coimbatore,18.41 L,4.4,14,Govt,BITSAT
+BITS Pilani - Birla Institute of Technology Campus 198,Coimbatore,4.38 L,4.1,23,Pvt,MHT CET
+NIT Surathkal Campus 199,Kolkata,9.43 L,4.2,19,Govt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 200,Kolkata,11.95 L,4.4,10,Govt,JEE Main
+NIT Trichy Campus 201,Bengaluru,1.26 L,4.4,13,Govt,KCET
+NIT Trichy Campus 202,Nagpur,21.08 L,4.6,32,Govt,JEE Main
+NIT Surathkal Campus 203,Kolkata,7.04 L,3.6,24,Govt,VITEEE
+IIIT Hyderabad Campus 204,Indore,14.98 L,3.6,36,Pvt,KCET
+NIT Surathkal Campus 205,Delhi,11.15 L,4.2,20,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 206,Indore,1.62 L,3.1,36,Pvt,"JEE Main, JEE Advanced"
+IIT Madras - Indian Institute of Technology Campus 207,Delhi,8.56 L,4.8,27,Govt,JEE Main
+NIT Trichy Campus 208,Indore,6.55 L,4.5,8,Govt,MHT CET
+IIT Bombay - Indian Institute of Technology Campus 209,Pune,17.04 L,4.1,36,Govt,UPTAC
+BITS Pilani - Birla Institute of Technology Campus 210,Kolkata,1.39 L,4.2,28,Pvt,BITSAT
+NIT Trichy Campus 211,Indore,4.31 L,3.4,14,Govt,KCET
+IIT Madras - Indian Institute of Technology Campus 212,Delhi,9.02 L,4.8,39,Govt,BITSAT
+IIT Delhi - Indian Institute of Technology Campus 213,Nagpur,11.74 L,4.6,38,Govt,JEE Main
+NIT Trichy Campus 214,Hyderabad,19.23 L,4,13,Govt,BITSAT
+VIT Vellore Campus 215,Coimbatore,5.37 L,3.3,7,Pvt,KCET
+NIT Trichy Campus 216,Mumbai,2.12 L,4.7,20,Govt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 217,Mumbai,19.11 L,4.5,10,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 218,Indore,21.76 L,4.3,9,Pvt,UPTAC
+VIT Vellore Campus 219,Delhi,14.09 L,3.7,34,Pvt,UPTAC
+VIT Vellore Campus 220,Kolkata,13.18 L,4.8,36,Pvt,JEE Main
+VIT Vellore Campus 221,Coimbatore,5.36 L,4.3,7,Pvt,VITEEE
+IIT Bombay - Indian Institute of Technology Campus 222,Nagpur,2.96 L,4.4,16,Govt,BITSAT
+IIIT Hyderabad Campus 223,Coimbatore,21.4 L,3.2,18,Pvt,KCET
+IIT Delhi - Indian Institute of Technology Campus 224,Coimbatore,4.91 L,4.6,39,Govt,BITSAT
+IIT Delhi - Indian Institute of Technology Campus 225,Delhi,10.67 L,3.4,29,Govt,JEE Main
+VIT Vellore Campus 226,Delhi,4.32 L,3.8,35,Pvt,"JEE Main, JEE Advanced"
+IIIT Hyderabad Campus 227,Nagpur,13.67 L,4.5,26,Pvt,KCET
+IIT Bombay - Indian Institute of Technology Campus 228,Hyderabad,8.62 L,4.8,16,Govt,UPTAC
+IIIT Hyderabad Campus 229,Pune,18.0 L,3.4,17,Pvt,VITEEE
+IIT Bombay - Indian Institute of Technology Campus 230,Kolkata,15.97 L,4.6,29,Govt,VITEEE
+VIT Vellore Campus 231,Delhi,7.62 L,3.2,28,Pvt,"JEE Main, JEE Advanced"
+IIIT Hyderabad Campus 232,Indore,20.14 L,4.1,5,Pvt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 233,Hyderabad,2.85 L,4,10,Pvt,UPTAC
+NIT Trichy Campus 234,Chennai,11.36 L,3.2,34,Govt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 235,Mumbai,14.09 L,3.4,7,Pvt,BITSAT
+IIIT Hyderabad Campus 236,Pune,17.08 L,3.3,26,Pvt,KCET
+BITS Pilani - Birla Institute of Technology Campus 237,Chennai,14.99 L,3.7,13,Pvt,BITSAT
+IIIT Hyderabad Campus 238,Pune,1.35 L,4.7,34,Pvt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 239,Mumbai,4.83 L,4.3,33,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 240,Bengaluru,7.46 L,4.7,26,Pvt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 241,Chennai,7.98 L,4.7,39,Govt,VITEEE
+NIT Surathkal Campus 242,Nagpur,18.7 L,4.3,15,Govt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 243,Coimbatore,21.29 L,3.7,27,Govt,JEE Main
+NIT Trichy Campus 244,Kolkata,3.05 L,3.3,27,Govt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 245,Hyderabad,17.35 L,3.7,6,Govt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 246,Indore,17.6 L,3.9,7,Pvt,UPTAC
+VIT Vellore Campus 247,Mumbai,21.49 L,3.7,31,Pvt,KCET
+IIT Delhi - Indian Institute of Technology Campus 248,Kolkata,4.87 L,3.2,38,Govt,JEE Main
+IIT Madras - Indian Institute of Technology Campus 249,Indore,0.94 L,3.5,7,Govt,JEE Main
+VIT Vellore Campus 250,Pune,3.32 L,4.7,33,Pvt,KCET
+VIT Vellore Campus 251,Bengaluru,3.34 L,3.2,31,Pvt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 252,Mumbai,11.62 L,4.1,12,Govt,BITSAT
+IIIT Hyderabad Campus 253,Delhi,10.59 L,3.7,9,Pvt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 254,Coimbatore,3.0 L,4,11,Pvt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 255,Mumbai,18.59 L,4.3,29,Pvt,MHT CET
+IIT Bombay - Indian Institute of Technology Campus 256,Bengaluru,16.38 L,3.9,18,Govt,KCET
+BITS Pilani - Birla Institute of Technology Campus 257,Delhi,1.79 L,3.6,13,Pvt,UPTAC
+NIT Surathkal Campus 258,Coimbatore,6.73 L,3.7,8,Govt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 259,Indore,4.55 L,4.6,32,Govt,VITEEE
+NIT Trichy Campus 260,Chennai,4.87 L,4.3,40,Govt,JEE Main
+VIT Vellore Campus 261,Pune,15.7 L,4.4,28,Pvt,JEE Main
+IIT Madras - Indian Institute of Technology Campus 262,Indore,5.52 L,3.3,14,Govt,MHT CET
+IIT Madras - Indian Institute of Technology Campus 263,Pune,4.64 L,3.4,31,Govt,MHT CET
+VIT Vellore Campus 264,Chennai,6.87 L,3.5,19,Pvt,BITSAT
+IIT Delhi - Indian Institute of Technology Campus 265,Indore,9.28 L,4.7,7,Govt,VITEEE
+VIT Vellore Campus 266,Nagpur,15.14 L,4.3,17,Pvt,"JEE Main, JEE Advanced"
+IIT Bombay - Indian Institute of Technology Campus 267,Mumbai,18.11 L,3.1,12,Govt,UPTAC
+NIT Trichy Campus 268,Kolkata,13.1 L,3.1,11,Govt,BITSAT
+BITS Pilani - Birla Institute of Technology Campus 269,Kolkata,7.86 L,3.8,12,Pvt,MHT CET
+NIT Surathkal Campus 270,Hyderabad,14.88 L,4.4,9,Govt,BITSAT
+NIT Trichy Campus 271,Bengaluru,2.14 L,4.8,27,Govt,KCET
+IIT Delhi - Indian Institute of Technology Campus 272,Coimbatore,2.18 L,3.1,17,Govt,KCET
+BITS Pilani - Birla Institute of Technology Campus 273,Delhi,14.72 L,4.7,18,Pvt,MHT CET
+NIT Trichy Campus 274,Chennai,12.71 L,4,31,Govt,"JEE Main, JEE Advanced"
+IIIT Hyderabad Campus 275,Chennai,13.51 L,3.4,34,Pvt,"JEE Main, JEE Advanced"
+IIT Madras - Indian Institute of Technology Campus 276,Delhi,16.69 L,4.4,40,Govt,UPTAC
+NIT Surathkal Campus 277,Indore,16.29 L,4.5,17,Govt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 278,Chennai,19.54 L,4.6,15,Govt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 279,Nagpur,11.72 L,3.3,33,Govt,BITSAT
+IIIT Hyderabad Campus 280,Delhi,18.85 L,3.6,26,Pvt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 281,Nagpur,19.58 L,4.1,23,Pvt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 282,Mumbai,17.74 L,3.9,15,Pvt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 283,Chennai,5.28 L,4.4,27,Govt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 284,Bengaluru,18.96 L,3.8,17,Pvt,UPTAC
+IIT Delhi - Indian Institute of Technology Campus 285,Kolkata,3.0 L,4.1,24,Govt,UPTAC
+BITS Pilani - Birla Institute of Technology Campus 286,Hyderabad,17.48 L,4.4,24,Pvt,VITEEE
+VIT Vellore Campus 287,Delhi,4.49 L,3.5,10,Pvt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 288,Pune,19.77 L,4.7,25,Govt,KCET
+IIIT Hyderabad Campus 289,Pune,15.64 L,4.8,38,Pvt,UPTAC
+NIT Trichy Campus 290,Kolkata,16.17 L,4.1,39,Govt,"JEE Main, JEE Advanced"
+BITS Pilani - Birla Institute of Technology Campus 291,Chennai,9.05 L,3.7,24,Pvt,KCET
+IIIT Hyderabad Campus 292,Bengaluru,20.16 L,3.3,35,Pvt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 293,Bengaluru,13.37 L,3.4,9,Pvt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 294,Mumbai,10.8 L,3.1,36,Govt,"JEE Main, JEE Advanced"
+IIT Bombay - Indian Institute of Technology Campus 295,Bengaluru,9.0 L,3.7,18,Govt,UPTAC
+BITS Pilani - Birla Institute of Technology Campus 296,Nagpur,10.09 L,3.6,18,Pvt,KCET
+BITS Pilani - Birla Institute of Technology Campus 297,Delhi,9.12 L,3.2,16,Pvt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 298,Bengaluru,3.11 L,3.8,8,Govt,"JEE Main, JEE Advanced"
+BITS Pilani - Birla Institute of Technology Campus 299,Mumbai,1.41 L,3.3,27,Pvt,JEE Main
+NIT Surathkal Campus 300,Pune,18.85 L,3.2,10,Govt,BITSAT
+IIT Madras - Indian Institute of Technology Campus 301,Pune,20.81 L,4.4,13,Govt,VITEEE
+NIT Surathkal Campus 302,Chennai,14.74 L,3.5,27,Govt,KCET
+IIT Madras - Indian Institute of Technology Campus 303,Hyderabad,15.29 L,3.7,39,Govt,UPTAC
+IIT Bombay - Indian Institute of Technology Campus 304,Hyderabad,3.23 L,3,8,Govt,MHT CET
+IIT Madras - Indian Institute of Technology Campus 305,Delhi,9.37 L,3.2,10,Govt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 306,Delhi,9.35 L,4.2,34,Govt,KCET
+IIT Bombay - Indian Institute of Technology Campus 307,Bengaluru,13.96 L,4.7,11,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 308,Bengaluru,17.8 L,3.6,27,Pvt,KCET
+IIT Madras - Indian Institute of Technology Campus 309,Bengaluru,18.12 L,4.4,24,Govt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 310,Pune,15.78 L,3.8,13,Govt,JEE Main
+VIT Vellore Campus 311,Coimbatore,14.78 L,3.5,26,Pvt,BITSAT
+IIT Delhi - Indian Institute of Technology Campus 312,Kolkata,1.78 L,3.9,27,Govt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 313,Kolkata,6.76 L,4.5,25,Pvt,UPTAC
+IIT Delhi - Indian Institute of Technology Campus 314,Pune,21.3 L,3.2,20,Govt,BITSAT
+IIT Bombay - Indian Institute of Technology Campus 315,Chennai,1.86 L,4.1,38,Govt,BITSAT
+IIT Delhi - Indian Institute of Technology Campus 316,Kolkata,16.99 L,4.1,32,Govt,BITSAT
+NIT Trichy Campus 317,Coimbatore,18.04 L,4.2,14,Govt,UPTAC
+IIT Delhi - Indian Institute of Technology Campus 318,Nagpur,5.7 L,4,33,Govt,KCET
+NIT Trichy Campus 319,Nagpur,16.21 L,3.5,40,Govt,MHT CET
+NIT Trichy Campus 320,Pune,13.55 L,4.3,9,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 321,Mumbai,21.11 L,4,17,Pvt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 322,Chennai,17.78 L,4.1,9,Pvt,UPTAC
+BITS Pilani - Birla Institute of Technology Campus 323,Nagpur,7.46 L,4,36,Pvt,KCET
+IIT Bombay - Indian Institute of Technology Campus 324,Nagpur,2.87 L,3.6,30,Govt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 325,Chennai,9.24 L,3,22,Govt,UPTAC
+NIT Surathkal Campus 326,Nagpur,4.08 L,3.3,20,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 327,Mumbai,20.96 L,3.7,11,Pvt,KCET
+IIT Bombay - Indian Institute of Technology Campus 328,Nagpur,16.93 L,3.5,32,Govt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 329,Hyderabad,13.39 L,3.4,20,Govt,MHT CET
+IIIT Hyderabad Campus 330,Indore,1.39 L,3.4,28,Pvt,UPTAC
+BITS Pilani - Birla Institute of Technology Campus 331,Hyderabad,4.3 L,4,23,Pvt,MHT CET
+IIT Delhi - Indian Institute of Technology Campus 332,Nagpur,21.35 L,4.6,10,Govt,MHT CET
+NIT Trichy Campus 333,Pune,9.37 L,4.2,28,Govt,BITSAT
+NIT Trichy Campus 334,Mumbai,11.39 L,3.1,29,Govt,"JEE Main, JEE Advanced"
+IIIT Hyderabad Campus 335,Kolkata,10.18 L,3.4,34,Pvt,BITSAT
+VIT Vellore Campus 336,Coimbatore,13.2 L,4.5,34,Pvt,VITEEE
+IIIT Hyderabad Campus 337,Coimbatore,12.87 L,3.9,38,Pvt,JEE Main
+VIT Vellore Campus 338,Indore,12.67 L,3.9,32,Pvt,JEE Main
+NIT Trichy Campus 339,Hyderabad,21.78 L,3.8,7,Govt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 340,Chennai,11.46 L,4.5,5,Pvt,MHT CET
+IIT Delhi - Indian Institute of Technology Campus 341,Indore,7.08 L,3.2,22,Govt,BITSAT
+VIT Vellore Campus 342,Pune,12.79 L,4.8,24,Pvt,BITSAT
+VIT Vellore Campus 343,Coimbatore,20.56 L,4.4,33,Pvt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 344,Mumbai,2.26 L,3.4,6,Govt,JEE Main
+VIT Vellore Campus 345,Mumbai,18.62 L,4.2,7,Pvt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 346,Pune,4.0 L,4.4,33,Govt,UPTAC
+NIT Trichy Campus 347,Bengaluru,2.04 L,4.2,17,Govt,UPTAC
+VIT Vellore Campus 348,Coimbatore,11.14 L,4.7,16,Pvt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 349,Pune,10.01 L,4.6,37,Govt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 350,Bengaluru,20.58 L,4.8,26,Govt,JEE Main
+NIT Trichy Campus 351,Pune,18.13 L,4,35,Govt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 352,Pune,1.33 L,3.1,39,Govt,MHT CET
+VIT Vellore Campus 353,Indore,10.91 L,4.3,8,Pvt,BITSAT
+IIT Delhi - Indian Institute of Technology Campus 354,Delhi,13.65 L,4.4,13,Govt,JEE Main
+IIIT Hyderabad Campus 355,Delhi,15.25 L,3.2,9,Pvt,UPTAC
+BITS Pilani - Birla Institute of Technology Campus 356,Pune,14.79 L,3.3,23,Pvt,BITSAT
+VIT Vellore Campus 357,Bengaluru,18.76 L,3.7,31,Pvt,BITSAT
+VIT Vellore Campus 358,Mumbai,21.31 L,4,23,Pvt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 359,Pune,5.95 L,4.6,38,Govt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 360,Hyderabad,12.84 L,3.5,15,Pvt,JEE Main
+IIT Delhi - Indian Institute of Technology Campus 361,Kolkata,4.74 L,4.5,33,Govt,JEE Main
+IIT Madras - Indian Institute of Technology Campus 362,Indore,1.99 L,3.2,30,Govt,BITSAT
+VIT Vellore Campus 363,Pune,20.68 L,4.5,5,Pvt,"JEE Main, JEE Advanced"
+IIIT Hyderabad Campus 364,Chennai,2.87 L,3.5,20,Pvt,KCET
+NIT Trichy Campus 365,Delhi,12.2 L,4.2,36,Govt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 366,Mumbai,16.62 L,3.5,35,Govt,UPTAC
+BITS Pilani - Birla Institute of Technology Campus 367,Mumbai,2.67 L,4.1,12,Pvt,JEE Main
+IIT Madras - Indian Institute of Technology Campus 368,Bengaluru,13.92 L,3,21,Govt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 369,Nagpur,19.23 L,4.3,14,Govt,MHT CET
+IIT Delhi - Indian Institute of Technology Campus 370,Hyderabad,13.61 L,4.3,19,Govt,MHT CET
+NIT Trichy Campus 371,Hyderabad,21.04 L,4.4,33,Govt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 372,Indore,5.9 L,4.1,21,Govt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 373,Mumbai,14.92 L,4.7,11,Pvt,BITSAT
+IIT Madras - Indian Institute of Technology Campus 374,Delhi,6.39 L,4,25,Govt,VITEEE
+IIT Bombay - Indian Institute of Technology Campus 375,Chennai,1.62 L,3.5,39,Govt,BITSAT
+IIT Bombay - Indian Institute of Technology Campus 376,Hyderabad,10.99 L,4,35,Govt,MHT CET
+NIT Trichy Campus 377,Delhi,12.44 L,4.3,7,Govt,VITEEE
+NIT Surathkal Campus 378,Coimbatore,12.25 L,3.2,30,Govt,KCET
+BITS Pilani - Birla Institute of Technology Campus 379,Nagpur,7.76 L,4,35,Pvt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 380,Mumbai,6.81 L,4.3,16,Govt,UPTAC
+BITS Pilani - Birla Institute of Technology Campus 381,Delhi,20.31 L,3.8,12,Pvt,UPTAC
+IIT Delhi - Indian Institute of Technology Campus 382,Pune,11.42 L,4.4,10,Govt,KCET
+IIT Madras - Indian Institute of Technology Campus 383,Hyderabad,4.41 L,4.5,24,Govt,MHT CET
+IIT Bombay - Indian Institute of Technology Campus 384,Kolkata,2.45 L,3.6,8,Govt,UPTAC
+NIT Trichy Campus 385,Indore,4.45 L,3.3,23,Govt,"JEE Main, JEE Advanced"
+IIIT Hyderabad Campus 386,Pune,16.49 L,3.3,15,Pvt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 387,Coimbatore,11.25 L,3.7,6,Pvt,KCET
+NIT Trichy Campus 388,Coimbatore,11.47 L,4,17,Govt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 389,Indore,3.88 L,4,25,Govt,JEE Main
+IIIT Hyderabad Campus 390,Bengaluru,11.35 L,4,35,Pvt,MHT CET
+NIT Surathkal Campus 391,Nagpur,11.49 L,3.2,11,Govt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 392,Pune,15.04 L,4.7,29,Pvt,KCET
+IIT Madras - Indian Institute of Technology Campus 393,Indore,5.15 L,4.1,16,Govt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 394,Kolkata,8.6 L,3.6,12,Govt,UPTAC
+NIT Trichy Campus 395,Kolkata,10.07 L,3.7,20,Govt,BITSAT
+VIT Vellore Campus 396,Mumbai,13.46 L,3.3,24,Pvt,UPTAC
+NIT Trichy Campus 397,Mumbai,8.8 L,3.7,40,Govt,MHT CET
+NIT Surathkal Campus 398,Mumbai,7.76 L,4.1,7,Govt,VITEEE
+IIIT Hyderabad Campus 399,Coimbatore,18.36 L,4.1,20,Pvt,JEE Main
+IIIT Hyderabad Campus 400,Chennai,2.32 L,4.7,5,Pvt,BITSAT
+VIT Vellore Campus 401,Coimbatore,4.4 L,4.1,13,Pvt,MHT CET
+NIT Trichy Campus 402,Indore,17.86 L,4.7,7,Govt,"JEE Main, JEE Advanced"
+IIIT Hyderabad Campus 403,Hyderabad,19.52 L,4.7,26,Pvt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 404,Indore,21.79 L,4.4,37,Govt,UPTAC
+NIT Surathkal Campus 405,Chennai,3.74 L,4.2,13,Govt,UPTAC
+IIT Bombay - Indian Institute of Technology Campus 406,Bengaluru,21.57 L,4.7,19,Govt,"JEE Main, JEE Advanced"
+VIT Vellore Campus 407,Kolkata,21.28 L,3.3,24,Pvt,UPTAC
+NIT Surathkal Campus 408,Chennai,3.3 L,3.6,17,Govt,UPTAC
+NIT Trichy Campus 409,Delhi,10.07 L,4.4,26,Govt,BITSAT
+NIT Surathkal Campus 410,Bengaluru,5.64 L,4.3,16,Govt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 411,Hyderabad,12.31 L,3.7,39,Pvt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 412,Hyderabad,18.46 L,4.1,39,Govt,BITSAT
+IIIT Hyderabad Campus 413,Pune,2.17 L,4.2,16,Pvt,MHT CET
+NIT Surathkal Campus 414,Nagpur,12.05 L,4.7,35,Govt,UPTAC
+NIT Trichy Campus 415,Pune,5.84 L,3.3,15,Govt,UPTAC
+IIT Delhi - Indian Institute of Technology Campus 416,Nagpur,3.83 L,4.2,19,Govt,BITSAT
+IIT Delhi - Indian Institute of Technology Campus 417,Indore,11.88 L,3.6,12,Govt,BITSAT
+IIIT Hyderabad Campus 418,Pune,6.85 L,3.5,9,Pvt,KCET
+IIT Madras - Indian Institute of Technology Campus 419,Hyderabad,6.02 L,3.7,8,Govt,VITEEE
+IIIT Hyderabad Campus 420,Chennai,19.07 L,4.8,31,Pvt,BITSAT
+VIT Vellore Campus 421,Delhi,7.04 L,4,7,Pvt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 422,Chennai,5.88 L,3.6,30,Govt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 423,Hyderabad,13.59 L,3.9,18,Govt,UPTAC
+IIIT Hyderabad Campus 424,Pune,16.54 L,3.5,7,Pvt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 425,Bengaluru,12.63 L,3.2,33,Govt,VITEEE
+VIT Vellore Campus 426,Indore,6.56 L,3.4,37,Pvt,KCET
+IIT Bombay - Indian Institute of Technology Campus 427,Delhi,13.65 L,4.7,16,Govt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 428,Chennai,19.78 L,3.9,19,Govt,UPTAC
+NIT Surathkal Campus 429,Indore,16.94 L,3.7,10,Govt,MHT CET
+NIT Trichy Campus 430,Coimbatore,3.09 L,3.5,27,Govt,KCET
+NIT Trichy Campus 431,Chennai,10.31 L,4.1,35,Govt,UPTAC
+IIIT Hyderabad Campus 432,Chennai,11.96 L,3.7,31,Pvt,JEE Main
+IIIT Hyderabad Campus 433,Mumbai,17.32 L,4.5,7,Pvt,MHT CET
+NIT Surathkal Campus 434,Mumbai,13.92 L,3.7,40,Govt,JEE Main
+VIT Vellore Campus 435,Mumbai,21.06 L,3.3,20,Pvt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 436,Bengaluru,18.15 L,4.8,40,Pvt,KCET
+IIT Madras - Indian Institute of Technology Campus 437,Kolkata,14.35 L,4,24,Govt,JEE Main
+IIT Madras - Indian Institute of Technology Campus 438,Bengaluru,11.02 L,4.2,16,Govt,MHT CET
+IIT Madras - Indian Institute of Technology Campus 439,Pune,7.73 L,4,8,Govt,"JEE Main, JEE Advanced"
+IIT Madras - Indian Institute of Technology Campus 440,Indore,19.92 L,3.8,23,Govt,BITSAT
+NIT Trichy Campus 441,Pune,15.15 L,3.6,27,Govt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 442,Kolkata,20.44 L,4,40,Govt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 443,Coimbatore,21.36 L,4.6,20,Govt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 444,Hyderabad,6.91 L,3.6,20,Govt,KCET
+IIT Bombay - Indian Institute of Technology Campus 445,Mumbai,17.17 L,3.7,12,Govt,BITSAT
+NIT Surathkal Campus 446,Bengaluru,14.35 L,4.1,28,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 447,Indore,5.39 L,4.2,5,Pvt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 448,Bengaluru,18.07 L,4.4,30,Govt,MHT CET
+NIT Surathkal Campus 449,Mumbai,9.24 L,3.3,9,Govt,VITEEE
+NIT Trichy Campus 450,Chennai,14.57 L,4.4,29,Govt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 451,Nagpur,3.0 L,3.8,18,Govt,VITEEE
+IIT Bombay - Indian Institute of Technology Campus 452,Chennai,6.89 L,4.4,12,Govt,VITEEE
+IIIT Hyderabad Campus 453,Mumbai,9.85 L,3.1,17,Pvt,BITSAT
+IIT Madras - Indian Institute of Technology Campus 454,Chennai,16.59 L,3.1,38,Govt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 455,Coimbatore,20.16 L,3.5,14,Govt,JEE Main
+VIT Vellore Campus 456,Mumbai,18.24 L,3.3,38,Pvt,BITSAT
+BITS Pilani - Birla Institute of Technology Campus 457,Bengaluru,5.39 L,3.2,20,Pvt,BITSAT
+NIT Surathkal Campus 458,Bengaluru,17.32 L,3.4,25,Govt,BITSAT
+VIT Vellore Campus 459,Nagpur,20.99 L,3.5,40,Pvt,UPTAC
+NIT Trichy Campus 460,Indore,6.16 L,3.8,37,Govt,JEE Main
+IIT Delhi - Indian Institute of Technology Campus 461,Chennai,19.36 L,4.7,19,Govt,"JEE Main, JEE Advanced"
+BITS Pilani - Birla Institute of Technology Campus 462,Hyderabad,19.83 L,3.3,26,Pvt,MHT CET
+IIT Madras - Indian Institute of Technology Campus 463,Mumbai,17.72 L,3.3,12,Govt,UPTAC
+IIT Delhi - Indian Institute of Technology Campus 464,Hyderabad,14.0 L,3,35,Govt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 465,Delhi,15.97 L,3.7,34,Govt,BITSAT
+VIT Vellore Campus 466,Bengaluru,4.37 L,3,31,Pvt,VITEEE
+NIT Trichy Campus 467,Nagpur,21.33 L,4.5,35,Govt,UPTAC
+IIIT Hyderabad Campus 468,Pune,4.21 L,3.4,40,Pvt,BITSAT
+IIT Bombay - Indian Institute of Technology Campus 469,Nagpur,13.11 L,4.6,25,Govt,KCET
+BITS Pilani - Birla Institute of Technology Campus 470,Hyderabad,6.43 L,4.1,16,Pvt,UPTAC
+NIT Trichy Campus 471,Delhi,10.51 L,3.7,10,Govt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 472,Kolkata,6.71 L,4.7,16,Govt,UPTAC
+NIT Surathkal Campus 473,Delhi,1.09 L,4.2,33,Govt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 474,Pune,9.54 L,3.2,12,Govt,MHT CET
+IIIT Hyderabad Campus 475,Hyderabad,6.99 L,4.3,25,Pvt,BITSAT
+IIIT Hyderabad Campus 476,Bengaluru,20.41 L,3.2,33,Pvt,JEE Main
+VIT Vellore Campus 477,Nagpur,17.56 L,3.2,14,Pvt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 478,Hyderabad,15.44 L,4.2,15,Pvt,MHT CET
+IIT Delhi - Indian Institute of Technology Campus 479,Mumbai,12.73 L,3.8,17,Govt,JEE Main
+IIIT Hyderabad Campus 480,Kolkata,2.51 L,3.5,13,Pvt,"JEE Main, JEE Advanced"
+VIT Vellore Campus 481,Hyderabad,6.66 L,3.7,6,Pvt,BITSAT
+IIT Madras - Indian Institute of Technology Campus 482,Nagpur,11.4 L,4.5,6,Govt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 483,Kolkata,6.96 L,4.6,18,Govt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 484,Indore,13.42 L,4.1,12,Govt,BITSAT
+IIIT Hyderabad Campus 485,Kolkata,13.89 L,4.2,40,Pvt,BITSAT
+BITS Pilani - Birla Institute of Technology Campus 486,Pune,16.61 L,4.5,15,Pvt,BITSAT
+IIT Delhi - Indian Institute of Technology Campus 487,Kolkata,18.7 L,3.3,25,Govt,JEE Main
+IIIT Hyderabad Campus 488,Mumbai,2.26 L,4,30,Pvt,UPTAC
+NIT Surathkal Campus 489,Hyderabad,16.86 L,3.3,14,Govt,KCET
+VIT Vellore Campus 490,Mumbai,6.36 L,4.3,5,Pvt,UPTAC
+NIT Surathkal Campus 491,Pune,19.88 L,4.8,30,Govt,VITEEE
+VIT Vellore Campus 492,Indore,2.84 L,4.7,7,Pvt,BITSAT
+NIT Trichy Campus 493,Bengaluru,20.51 L,3.9,29,Govt,VITEEE
+IIIT Hyderabad Campus 494,Delhi,12.32 L,4.1,17,Pvt,BITSAT
+IIIT Hyderabad Campus 495,Delhi,4.24 L,3.6,7,Pvt,BITSAT
+IIIT Hyderabad Campus 496,Coimbatore,3.07 L,4.4,16,Pvt,BITSAT
+IIT Bombay - Indian Institute of Technology Campus 497,Pune,1.04 L,3.7,13,Govt,"JEE Main, JEE Advanced"
+VIT Vellore Campus 498,Indore,17.97 L,4.8,30,Pvt,BITSAT
+NIT Surathkal Campus 499,Mumbai,21.86 L,4,18,Govt,KCET
+VIT Vellore Campus 500,Delhi,18.59 L,3.8,27,Pvt,"JEE Main, JEE Advanced"
+VIT Vellore Campus 501,Pune,5.16 L,3,38,Pvt,JEE Main
+NIT Trichy Campus 502,Indore,9.55 L,3.2,38,Govt,KCET
+NIT Trichy Campus 503,Delhi,9.78 L,3.7,17,Govt,MHT CET
+NIT Trichy Campus 504,Nagpur,9.62 L,3.4,20,Govt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 505,Nagpur,13.71 L,4.1,37,Pvt,BITSAT
+BITS Pilani - Birla Institute of Technology Campus 506,Hyderabad,16.07 L,3.8,13,Pvt,KCET
+VIT Vellore Campus 507,Delhi,15.24 L,3.6,21,Pvt,BITSAT
+VIT Vellore Campus 508,Hyderabad,10.99 L,3.6,37,Pvt,"JEE Main, JEE Advanced"
+VIT Vellore Campus 509,Mumbai,9.19 L,4.3,15,Pvt,JEE Main
+VIT Vellore Campus 510,Coimbatore,7.06 L,3.9,25,Pvt,BITSAT
+IIIT Hyderabad Campus 511,Indore,5.67 L,3.5,39,Pvt,VITEEE
+IIT Bombay - Indian Institute of Technology Campus 512,Pune,14.59 L,3.1,6,Govt,JEE Main
+NIT Surathkal Campus 513,Chennai,3.41 L,3.2,6,Govt,JEE Main
+IIIT Hyderabad Campus 514,Chennai,16.5 L,3.5,8,Pvt,VITEEE
+NIT Trichy Campus 515,Bengaluru,19.96 L,4.4,32,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 516,Indore,5.82 L,4.1,16,Pvt,MHT CET
+IIT Madras - Indian Institute of Technology Campus 517,Kolkata,15.42 L,4.2,38,Govt,KCET
+NIT Trichy Campus 518,Pune,7.57 L,4.2,16,Govt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 519,Mumbai,21.76 L,3,17,Pvt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 520,Nagpur,5.67 L,4.6,23,Pvt,MHT CET
+IIIT Hyderabad Campus 521,Chennai,3.73 L,3.5,10,Pvt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 522,Pune,20.73 L,3.4,19,Govt,BITSAT
+IIIT Hyderabad Campus 523,Indore,3.25 L,4.1,28,Pvt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 524,Coimbatore,20.59 L,3.5,27,Govt,JEE Main
+IIT Delhi - Indian Institute of Technology Campus 525,Pune,7.7 L,3.4,25,Govt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 526,Hyderabad,11.09 L,4.7,5,Govt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 527,Nagpur,5.62 L,4.3,24,Pvt,MHT CET
+NIT Surathkal Campus 528,Kolkata,3.85 L,4.8,27,Govt,JEE Main
+IIT Delhi - Indian Institute of Technology Campus 529,Delhi,2.24 L,3.8,30,Govt,UPTAC
+VIT Vellore Campus 530,Mumbai,21.15 L,4,12,Pvt,KCET
+IIT Bombay - Indian Institute of Technology Campus 531,Bengaluru,3.06 L,3.8,14,Govt,BITSAT
+IIT Bombay - Indian Institute of Technology Campus 532,Mumbai,2.45 L,4.2,13,Govt,UPTAC
+IIT Delhi - Indian Institute of Technology Campus 533,Bengaluru,8.98 L,3.2,40,Govt,KCET
+BITS Pilani - Birla Institute of Technology Campus 534,Chennai,12.2 L,3.7,19,Pvt,BITSAT
+NIT Surathkal Campus 535,Kolkata,10.14 L,4.1,10,Govt,BITSAT
+IIT Madras - Indian Institute of Technology Campus 536,Hyderabad,2.62 L,4.1,28,Govt,KCET
+NIT Surathkal Campus 537,Coimbatore,9.4 L,4,33,Govt,BITSAT
+IIT Delhi - Indian Institute of Technology Campus 538,Kolkata,6.52 L,4.6,7,Govt,BITSAT
+IIT Madras - Indian Institute of Technology Campus 539,Hyderabad,7.89 L,4,21,Govt,"JEE Main, JEE Advanced"
+IIT Bombay - Indian Institute of Technology Campus 540,Indore,20.97 L,4.7,30,Govt,"JEE Main, JEE Advanced"
+BITS Pilani - Birla Institute of Technology Campus 541,Hyderabad,19.2 L,4.6,17,Pvt,MHT CET
+NIT Trichy Campus 542,Hyderabad,13.01 L,3.2,19,Govt,BITSAT
+VIT Vellore Campus 543,Chennai,17.56 L,3.9,11,Pvt,BITSAT
+NIT Surathkal Campus 544,Kolkata,18.22 L,4.7,23,Govt,BITSAT
+NIT Surathkal Campus 545,Nagpur,13.25 L,4.3,30,Govt,MHT CET
+NIT Trichy Campus 546,Coimbatore,4.99 L,3.9,14,Govt,BITSAT
+IIT Madras - Indian Institute of Technology Campus 547,Bengaluru,12.22 L,3.4,27,Govt,VITEEE
+NIT Trichy Campus 548,Coimbatore,20.85 L,3.3,37,Govt,BITSAT
+IIT Bombay - Indian Institute of Technology Campus 549,Chennai,16.76 L,3.8,20,Govt,BITSAT
+IIT Madras - Indian Institute of Technology Campus 550,Delhi,2.09 L,3,33,Govt,VITEEE
+IIIT Hyderabad Campus 551,Delhi,14.07 L,3,33,Pvt,BITSAT
+NIT Trichy Campus 552,Hyderabad,14.51 L,3.1,24,Govt,KCET
+IIT Madras - Indian Institute of Technology Campus 553,Indore,15.62 L,4.5,28,Govt,KCET
+BITS Pilani - Birla Institute of Technology Campus 554,Delhi,2.25 L,3.2,33,Pvt,JEE Main
+IIIT Hyderabad Campus 555,Kolkata,16.77 L,3.2,34,Pvt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 556,Kolkata,19.44 L,3.4,5,Govt,BITSAT
+VIT Vellore Campus 557,Hyderabad,5.61 L,3.5,11,Pvt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 558,Indore,20.47 L,3.5,24,Govt,KCET
+NIT Surathkal Campus 559,Coimbatore,15.03 L,4.8,15,Govt,KCET
+NIT Surathkal Campus 560,Coimbatore,15.99 L,3,19,Govt,UPTAC
+IIT Delhi - Indian Institute of Technology Campus 561,Indore,10.83 L,3.9,6,Govt,BITSAT
+IIT Bombay - Indian Institute of Technology Campus 562,Pune,12.0 L,3.2,33,Govt,UPTAC
+IIT Bombay - Indian Institute of Technology Campus 563,Bengaluru,11.13 L,3,18,Govt,"JEE Main, JEE Advanced"
+IIT Bombay - Indian Institute of Technology Campus 564,Nagpur,17.53 L,4,31,Govt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 565,Mumbai,21.0 L,4.7,24,Govt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 566,Kolkata,5.33 L,4.2,40,Pvt,BITSAT
+IIT Delhi - Indian Institute of Technology Campus 567,Mumbai,9.1 L,4.4,24,Govt,KCET
+IIT Madras - Indian Institute of Technology Campus 568,Delhi,7.47 L,4.3,19,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 569,Mumbai,5.66 L,4,14,Pvt,UPTAC
+NIT Trichy Campus 570,Nagpur,20.03 L,4.4,21,Govt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 571,Chennai,16.69 L,3.2,31,Pvt,KCET
+NIT Trichy Campus 572,Indore,11.43 L,3.2,8,Govt,UPTAC
+BITS Pilani - Birla Institute of Technology Campus 573,Kolkata,6.08 L,3.3,24,Pvt,JEE Main
+IIIT Hyderabad Campus 574,Mumbai,16.31 L,3.6,13,Pvt,"JEE Main, JEE Advanced"
+IIIT Hyderabad Campus 575,Delhi,8.5 L,3.4,32,Pvt,VITEEE
+NIT Surathkal Campus 576,Hyderabad,16.52 L,4.8,9,Govt,MHT CET
+IIT Bombay - Indian Institute of Technology Campus 577,Kolkata,21.98 L,3.5,23,Govt,JEE Main
+NIT Surathkal Campus 578,Coimbatore,20.64 L,3.6,22,Govt,KCET
+IIT Bombay - Indian Institute of Technology Campus 579,Bengaluru,2.31 L,3.5,39,Govt,BITSAT
+NIT Surathkal Campus 580,Pune,17.95 L,3.8,12,Govt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 581,Indore,10.98 L,3.5,9,Govt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 582,Indore,18.95 L,4.2,29,Pvt,BITSAT
+NIT Trichy Campus 583,Kolkata,6.99 L,3.4,7,Govt,KCET
+IIT Delhi - Indian Institute of Technology Campus 584,Coimbatore,2.75 L,4.2,40,Govt,JEE Main
+IIT Madras - Indian Institute of Technology Campus 585,Bengaluru,3.66 L,4.8,11,Govt,JEE Main
+NIT Surathkal Campus 586,Coimbatore,10.68 L,4,31,Govt,KCET
+BITS Pilani - Birla Institute of Technology Campus 587,Indore,15.78 L,4.8,19,Pvt,KCET
+IIT Madras - Indian Institute of Technology Campus 588,Bengaluru,10.08 L,4.6,25,Govt,VITEEE
+NIT Surathkal Campus 589,Delhi,17.11 L,3.3,30,Govt,"JEE Main, JEE Advanced"
+IIT Delhi - Indian Institute of Technology Campus 590,Hyderabad,3.43 L,4.3,17,Govt,"JEE Main, JEE Advanced"
+BITS Pilani - Birla Institute of Technology Campus 591,Bengaluru,6.34 L,3.6,34,Pvt,MHT CET
+IIIT Hyderabad Campus 592,Pune,21.59 L,3.5,37,Pvt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 593,Hyderabad,9.17 L,3.8,8,Govt,KCET
+IIT Bombay - Indian Institute of Technology Campus 594,Coimbatore,15.89 L,3.4,5,Govt,UPTAC
+NIT Trichy Campus 595,Indore,6.76 L,4.1,5,Govt,KCET
+IIT Madras - Indian Institute of Technology Campus 596,Pune,6.09 L,4.6,19,Govt,MHT CET
+IIT Bombay - Indian Institute of Technology Campus 597,Delhi,12.17 L,3.5,38,Govt,KCET
+VIT Vellore Campus 598,Chennai,18.53 L,4.3,24,Pvt,VITEEE
+IIT Bombay - Indian Institute of Technology Campus 599,Hyderabad,8.38 L,4.8,31,Govt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 600,Hyderabad,20.34 L,3.2,22,Govt,UPTAC
+NIT Surathkal Campus 601,Coimbatore,7.22 L,3.4,17,Govt,UPTAC
+NIT Trichy Campus 602,Kolkata,5.09 L,4.5,7,Govt,"JEE Main, JEE Advanced"
+IIT Madras - Indian Institute of Technology Campus 603,Mumbai,9.44 L,4.7,15,Govt,"JEE Main, JEE Advanced"
+BITS Pilani - Birla Institute of Technology Campus 604,Chennai,15.15 L,3.4,29,Pvt,KCET
+IIT Delhi - Indian Institute of Technology Campus 605,Hyderabad,5.17 L,4.6,28,Govt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 606,Hyderabad,19.77 L,3.2,34,Pvt,MHT CET
+IIT Delhi - Indian Institute of Technology Campus 607,Nagpur,2.59 L,3.3,30,Govt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 608,Hyderabad,19.34 L,3.3,12,Govt,VITEEE
+NIT Surathkal Campus 609,Chennai,18.99 L,4.3,24,Govt,MHT CET
+BITS Pilani - Birla Institute of Technology Campus 610,Kolkata,16.2 L,4.4,39,Pvt,VITEEE
+VIT Vellore Campus 611,Bengaluru,11.98 L,3.1,20,Pvt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 612,Kolkata,9.52 L,3.8,9,Govt,MHT CET
+IIT Madras - Indian Institute of Technology Campus 613,Nagpur,4.57 L,4,35,Govt,KCET
+VIT Vellore Campus 614,Bengaluru,1.26 L,4.1,29,Pvt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 615,Delhi,16.84 L,3.2,37,Govt,JEE Main
+IIT Delhi - Indian Institute of Technology Campus 616,Kolkata,9.8 L,4.6,34,Govt,"JEE Main, JEE Advanced"
+BITS Pilani - Birla Institute of Technology Campus 617,Mumbai,1.92 L,3.1,26,Pvt,MHT CET
+VIT Vellore Campus 618,Hyderabad,2.89 L,3.8,16,Pvt,KCET
+IIT Delhi - Indian Institute of Technology Campus 619,Indore,10.62 L,4.1,30,Govt,VITEEE
+IIIT Hyderabad Campus 620,Pune,4.45 L,4,37,Pvt,BITSAT
+IIT Bombay - Indian Institute of Technology Campus 621,Bengaluru,5.12 L,4.4,27,Govt,VITEEE
+IIT Delhi - Indian Institute of Technology Campus 622,Delhi,11.89 L,4.8,36,Govt,MHT CET
+IIT Bombay - Indian Institute of Technology Campus 623,Chennai,1.03 L,4.3,26,Govt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 624,Coimbatore,4.95 L,3.3,37,Govt,MHT CET
+VIT Vellore Campus 625,Coimbatore,13.98 L,3.2,31,Pvt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 626,Hyderabad,18.33 L,3.7,33,Govt,UPTAC
+NIT Trichy Campus 627,Hyderabad,19.5 L,3.7,25,Govt,BITSAT
+IIIT Hyderabad Campus 628,Coimbatore,0.83 L,4.5,6,Pvt,BITSAT
+IIT Bombay - Indian Institute of Technology Campus 629,Chennai,8.98 L,4.6,10,Govt,"JEE Main, JEE Advanced"
+NIT Trichy Campus 630,Delhi,2.31 L,4.2,21,Govt,UPTAC
+IIT Bombay - Indian Institute of Technology Campus 631,Delhi,14.51 L,3.9,6,Govt,VITEEE
+VIT Vellore Campus 632,Kolkata,20.32 L,3.4,36,Pvt,JEE Main
+VIT Vellore Campus 633,Chennai,14.79 L,3,5,Pvt,JEE Main
+BITS Pilani - Birla Institute of Technology Campus 634,Delhi,20.45 L,4.1,6,Pvt,VITEEE
+BITS Pilani - Birla Institute of Technology Campus 635,Kolkata,8.06 L,3.3,29,Pvt,JEE Main
+NIT Surathkal Campus 636,Delhi,15.77 L,4.3,16,Govt,JEE Main
+VIT Vellore Campus 637,Pune,7.78 L,3.8,19,Pvt,"JEE Main, JEE Advanced"
+BITS Pilani - Birla Institute of Technology Campus 638,Mumbai,4.62 L,3.2,24,Pvt,KCET
+NIT Trichy Campus 639,Mumbai,12.22 L,4.6,36,Govt,KCET
+NIT Trichy Campus 640,Mumbai,2.01 L,3.3,21,Govt,KCET
+IIT Bombay - Indian Institute of Technology Campus 641,Indore,2.8 L,4,11,Govt,UPTAC
+NIT Trichy Campus 642,Coimbatore,7.84 L,3.2,24,Govt,"JEE Main, JEE Advanced"
+VIT Vellore Campus 643,Mumbai,10.39 L,4.5,17,Pvt,"JEE Main, JEE Advanced"
+NIT Surathkal Campus 644,Mumbai,19.61 L,3.8,21,Govt,BITSAT
+VIT Vellore Campus 645,Kolkata,18.24 L,3.4,7,Pvt,MHT CET
+NIT Trichy Campus 646,Nagpur,7.07 L,3.1,29,Govt,KCET
+VIT Vellore Campus 647,Hyderabad,17.17 L,4.2,10,Pvt,JEE Main
+IIT Bombay - Indian Institute of Technology Campus 648,Nagpur,10.46 L,3.9,21,Govt,"JEE Main, JEE Advanced"
+IIT Bombay - Indian Institute of Technology Campus 649,Coimbatore,17.32 L,4.4,27,Govt,VITEEE
+NIT Trichy Campus 650,Chennai,6.78 L,4.6,12,Govt,KCET
+NIT Trichy Campus 651,Hyderabad,1.78 L,3,31,Govt,VITEEE
+IIT Madras - Indian Institute of Technology Campus 652,Pune,11.02 L,4.1,8,Govt,UPTAC
+IIT Madras - Indian Institute of Technology Campus 653,Bengaluru,17.07 L,4.3,7,Govt,MHT CET
+IIIT Hyderabad Campus 654,Delhi,13.37 L,3.1,22,Pvt,JEE Main
+IIT Delhi - Indian Institute of Technology Campus 655,Coimbatore,17.1 L,3.3,26,Govt,BITSAT
+NIT Trichy Campus 656,Delhi,13.22 L,4.4,22,Govt,UPTAC
+VIT Vellore Campus 657,Bengaluru,12.12 L,4.4,23,Pvt,MHT CET
